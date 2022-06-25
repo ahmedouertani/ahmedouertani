@@ -10,7 +10,7 @@ I'm Ouertani Ahmed a Full Stack Web Developer. I Spend most of time coding outst
 - 🔭 Engineering student 👨‍💻📚
 - 📫 How to reach me: ahmed.ouertani.2@esprit.tn
 - 😄 Pronouns: BOH
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and go to the GYM .
 
 #### Top Technologies
 
