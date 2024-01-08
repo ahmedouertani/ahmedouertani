@@ -4,7 +4,7 @@ I'm Ahmed Ouertani a Full Stack Web Developer. I Spend most of time coding outst
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Ahmed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedouertani/) [![Mail Badge](https://img.shields.io/badge/-@AhmedOuertani_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed.ouertani_/) [![Mail Badge](https://img.shields.io/badge/-AhmedOuertani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmed.ouertani.2@esprit.tn)
+ [![Linkedin Badge](https://img.shields.io/badge/-Ahmed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedouertani/) [![Mail Badge](https://img.shields.io/badge/-@AhmedOuertani_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed.ouertani_/) [![Mail Badge](https://img.shields.io/badge/-AhmedOuertani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmed.ouertani.dev@gmail.com)
 
 
 - 🔭 Engineering student 👨‍💻📚
