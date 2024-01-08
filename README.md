@@ -8,7 +8,7 @@ I'm Ahmed Ouertani a Full Stack Web Developer. I Spend most of time coding outst
 
 
 - 🔭 Engineering student 👨‍💻📚
-- 📫 How to reach me: ahmed.ouertani.2@esprit.tn
+- 📫 How to reach me: ahmed.ouertani.dev@gmail.com
 - 😄 Pronouns: BOH
 - ⚡ Fun fact: I play games and go to the GYM .
 
